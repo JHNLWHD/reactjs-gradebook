@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-gradebook/static/css/main.498d002a.chunk.css",
+    "main.js": "/reactjs-gradebook/static/js/main.37092d0d.chunk.js",
+    "main.js.map": "/reactjs-gradebook/static/js/main.37092d0d.chunk.js.map",
+    "runtime~main.js": "/reactjs-gradebook/static/js/runtime~main.3f34de52.js",
+    "runtime~main.js.map": "/reactjs-gradebook/static/js/runtime~main.3f34de52.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/reactjs-gradebook/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/reactjs-gradebook/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/reactjs-gradebook/index.html",
+    "precache-manifest.a89bb1d421c46fe599e531e8423d6151.js": "/reactjs-gradebook/precache-manifest.a89bb1d421c46fe599e531e8423d6151.js",
+    "service-worker.js": "/reactjs-gradebook/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/reactjs-gradebook/static/css/main.498d002a.chunk.css.map"
+  }
+}
